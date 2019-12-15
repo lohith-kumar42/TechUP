@@ -1,0 +1,7 @@
+site.url=http://www.TechUP.com
+timeout=25
+#Browser type
+#  Chrome               : "chrome"
+#  Firefox              : "firefox"
+#  Internet Explorer    : "ie"
+browser.type=Chrome
